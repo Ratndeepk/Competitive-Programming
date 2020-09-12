@@ -2,25 +2,18 @@ for i in range(int(input())):
     n = int(input())
     l = list(map(int,input().split()))
     l.sort()
-    i=n-1
-    c=0
-    print(l)
-    while i>1:
-        j=0
-        k=i-1
-        while j<k:
-            if l[j]+l[k]>l[i]:
-                k-=1
-            elif l[j]+l[k]<l[i]:
-                j+=1
-            else:
-                c+=1
-                j+=1
-                k-=1
-        i-=1
-                
-    if c!=0:
-        print(c)
+    count=0
+    max_a=l[-1]
+    c = set(l)
+    for i in range(n-2):
+        for j in range(i+1,n-1):
+            s = l[i]+l[j]
+            if s>max_a:
+                break
+            elif s in c:
+                count+=1
+    if count!=0:
+        print(count)
     else:
         print(-1)
     
@@ -28,3 +21,6 @@ for i in range(int(input())):
     
  
    
+#ratndeep
+# O(n2)
+# https://practice.geeksforgeeks.org/problems/count-the-triplets/0
