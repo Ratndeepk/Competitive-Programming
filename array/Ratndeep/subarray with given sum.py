@@ -22,3 +22,5 @@ for _ in range(int(input())):
         print(*subary(l,n,k))
     else:
         print(-1)
+
+#ratndeep
