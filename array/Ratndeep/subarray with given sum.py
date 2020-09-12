@@ -23,4 +23,6 @@ for _ in range(int(input())):
     else:
         print(-1)
 
-#ratndeep
+# ratndeep
+# https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+# O(n)
