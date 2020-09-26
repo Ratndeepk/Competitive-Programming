@@ -1,1 +1,2 @@
-// backtracking
+Backtracking is a method to solve problems by making a series 
+choices that we can return or backtrack to
