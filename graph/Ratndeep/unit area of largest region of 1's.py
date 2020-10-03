@@ -30,7 +30,7 @@ for _ in range(int(input())):
             case_row.append(matrix[col])
             col+=1
         final_matrix.append(case_row)
-    max_size=-999999999999999999999
+    max_size=0
     visited=[[False for i in range(m)] for i in range(n)]
     for row in range(n):
         for col in range(m):
