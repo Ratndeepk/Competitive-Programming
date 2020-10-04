@@ -1,7 +1,7 @@
 #code
 def safe(x,y,matrix,visited):
     if x<n and y<n and x>=0 and y>=0 and visited[x][y]==False:
-        print(x,y,matrix[x][y])
+        #print(x,y,matrix[x][y])
         if matrix[x][y]==3 or matrix[x][y]==2:
             
             return True
@@ -12,10 +12,10 @@ def findpath(matrix,x,y,move_x,move_y,dest_x,dest_y):
        return True
     
     for i in range(4):
-        print(x,y)
+        #print(x,y)
         new_x=x+move_x[i]
         new_y=y+move_y[i]
-        print(new_x,new_y,"moves=",move_x[i],move_y[i])
+        #print(new_x,new_y,"moves=",move_x[i],move_y[i])
         if safe(new_x,new_y,matrix,visited):
             visited[new_x][new_y]=True
             if matrix[new_x][new_y]==2:
@@ -24,7 +24,7 @@ def findpath(matrix,x,y,move_x,move_y,dest_x,dest_y):
             if findpath(matrix,new_x,new_y,move_x,move_y,dest_x,dest_y):
                 return True
             
-            return False
+    return False
 for _ in range(int(input())):
     n = int(input())
     list_matrix = list(map(int,input().split()))
@@ -47,8 +47,8 @@ for _ in range(int(input())):
     move_x = [1,0,0,-1]
     move_y = [0,1,-1,0]
     
-    for i in matrix:
-        print(*i)
+    #for i in matrix:
+        #print(*i)
     if findpath(matrix,source_x,source_y,move_x,move_y,dest_x,dest_y):
         print(1)
     else:
