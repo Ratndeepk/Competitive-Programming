@@ -1,11 +1,11 @@
-Make repo on local file -> git init
-Add local files to local repo -> git add . 
-Commit using -> git commit -m "Comment"
-Connecting with remote repo -> git remote add origin https://github.com/Ratndeepk/target2months.git
-Pushing your added program to remote - 
-First time push -  git push -u origin master
-Non-First time -  git push
-If changes were made in repo use - git pull origin master
+Make repo on local file -> git init   |
+      |    Add local files to local repo -> git add .   |    
+      |    Commit using -> git commit -m "Comment"      |
+      |    Connecting with remote repo -> git remote add origin https://github.com/Ratndeepk/target2months.git      |
+      |    Pushing your added program to remote -       | 
+      |    - First time push -  git push -u origin master     |
+      |    - Non-First time -  git push                 |
+      |    If changes were made in repo use - git pull origin master       |
  
 # link to everything
 # https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
