@@ -7,7 +7,7 @@ Make repo on local file -> git init   |
       |    - Non-First time -  git push                 |
       |    If changes were made in repo use - git pull origin master       |
  
-# link to everything
+# Link to everything ->
 # https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
 # save files in your own directory (Topic Name) -> (Your Name) -> Your Program
 
