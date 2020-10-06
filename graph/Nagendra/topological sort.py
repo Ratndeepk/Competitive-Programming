@@ -12,4 +12,8 @@ def topoSort(n, graph):
     for i in range(n):
         if visit[i] is False:
             dfsutil(i, visit, graph, s)
+<<<<<<< HEAD
+    return s[::-1]
+=======
     return s
+>>>>>>> bbe2857a8d8fc597f39d3771b698af78daffaf05
