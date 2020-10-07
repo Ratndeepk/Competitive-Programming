@@ -1,41 +1,27 @@
-def merge(head_a,head_b):
-    #code here
-    head=None
-    if head_a.data<head_b.data:
-        head=head_a
-        head_a=head_a.next
+def merge(head1, head2):
+    temp=None
+    if head1==None:
+        return head2
+    if head2==None:
+        return head1
+    
+    if head1.data<=head2.data:
+        temp=head1
+        temp.next=merge(head1.next,head2)
     else:
-        head=head_b
-        head_b=head_b.next
-    temp=head 
-    while(head_a or head_b):
-        if head_a and head_b:
-            if head_a.data<head_b.data:
-                temp.next=head_a
-                head_a=head_a.next
-                temp=temp.next
-            else:
-                temp.next=head_b
-                head_b=head_b.next
-                temp=temp.next
-        elif head_a is None:
-            temp.next=head_b
-            head_b=head_b.next
-            temp=temp.next
-        else:
-            temp.next=head_a
-            head_a=head_a.next
-            temp=temp.next
-    temp.next=None        
-    return head
+        temp=head2
+        temp.next=merge(head1,head2.next)
+    return temp
 def mergeKLists(arr,N):
     # code here
     # return head of merged list
-    if len(arr)==1:
-        return arr[0]
-    head = merge(arr[0],arr[1])
-    if len(arr)==2:
-        return head
-    for i in range(2,N):
-        head = merge(head,arr[i])
-    return head
+    if N==0:
+        return 
+    elif N==1:
+        return heads[0]
+    else:
+        
+        header=merge(heads[0],heads[1])
+        for i in range(2,n):
+            header=merge(header,heads[i])
+        return header
