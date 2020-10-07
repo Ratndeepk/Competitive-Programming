@@ -15,7 +15,7 @@ def topSort(v,stack,visited,graph):
             topSort(i,stack,visited,graph)
     
     stack.insert(0,chr(v+ord('a')))
-    #print(stack)
+    #print(stack)#
 
 from collections import defaultdict
 def findOrder(dict, N, K):
