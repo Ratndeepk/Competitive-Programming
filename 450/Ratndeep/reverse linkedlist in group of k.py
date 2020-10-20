@@ -24,7 +24,6 @@ class linkedlist:
             current = next
             count += 1
         if next:
-            print("fasal")
             head.next = self.reverse(next, k)
         return prev
 
