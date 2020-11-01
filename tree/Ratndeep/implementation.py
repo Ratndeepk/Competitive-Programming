@@ -61,6 +61,4 @@ bt.printbt(bt.root)
 print()
 print("Level order->")
 print(*bt.levelOrder(bt.root))
-l = bt.levelOrder(bt.root)
-l.sort(reverse=True)
-print(*l)
+
