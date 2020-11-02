@@ -6,7 +6,7 @@ Stability is mainly important when we have key value pairs with duplicate keys p
 A sorting algorithm is said to be stable if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 Informally, stability means that equivalent elements retain their relative positions, after sorting.
 
-![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/sorting/Stability-img/1.png?raw=true)
+![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/sorting/Stability-img/1.jpg?raw=true)
 
 
 # Which sorting algorithms are stable?
