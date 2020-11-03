@@ -1,10 +1,8 @@
-
-# Link to everything ->
 # Geeksforgeeks ->
-# https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
 # save files in your own directory (Topic Name) -> (Your Name) -> Your Program
 # Leetcode ->
-# https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+https://leetcode.com/explore/interview/card/top-interview-questions-hard/
 Arrays :
 
 Subarray with given sum ,
