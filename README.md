@@ -2,8 +2,7 @@
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
 # Save files in your own directory (Topic Name) -> (Your Name) -> Your Program
 # Leetcode ->
-https://leetcode.com/explore/interview/card/top-interview-questions-hard/ <br/ >
-Arrays :
+https://leetcode.com/explore/interview/card/top-interview-questions-hard/ \
 
 Subarray with given sum ,
 Count the triplets ,
