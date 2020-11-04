@@ -16,6 +16,6 @@ Quick Sort, Heap Sort etc., can be made stable by also taking the position of th
 
 # Important MCQ's
 https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq/ \
-https://letsfindcourse.com/technical-questions/dsa-mcq/sorting  \ 
+https://letsfindcourse.com/technical-questions/dsa-mcq/sorting \ 
 https://www.careerride.com/view/mcqs-on-sorting-with-answers-19637.aspx
 
