@@ -7,19 +7,19 @@ solution are best fit for Greedy.
 ----------------------------------------------------------------------------
 Some Important Questions - 
 ----------------------------------------------------------------------------
-> Activity Selection Problem
-> Egyptian Fraction
-> Job Sequencing Problem
-> Job Sequencing Problem (Using Disjoint Set)
-> Job Sequencing Problem – Loss Minimization
-> Job Selection Problem – Loss Minimization Strategy | Set 2
-> Huffman Coding
-> Efficient Huffman Coding for sorted input
-> Huffman Decoding
-> Water Connection Problem
-> Policemen catch thieves
-> Minimum Swaps for Bracket Balancing
-> Fitting Shelves Problem
+> Activity Selection Problem,
+> Egyptian Fraction,
+> Job Sequencing Problem,
+> Job Sequencing Problem (Using Disjoint Set),
+> Job Sequencing Problem – Loss Minimization,
+> Job Selection Problem – Loss Minimization Strategy | Set 2,
+> Huffman Coding,
+> Efficient Huffman Coding for sorted input,
+> Huffman Decoding,
+> Water Connection Problem,
+> Policemen catch thieves,
+> Minimum Swaps for Bracket Balancing,
+> Fitting Shelves Problem,
 > Assign Mice to Holes
 
 
