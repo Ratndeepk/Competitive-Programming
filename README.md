@@ -1,4 +1,7 @@
-Pull everything add your folder and you're in :D
+✅ Pull 
+✅ Add your folder 
+✅ Push 
+You're IN!
 # Geeksforgeeks ->
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
 # Save files in your own directory (Topic Name) -> (Your Name) -> Your Program
