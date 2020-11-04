@@ -15,6 +15,7 @@ Some Sorting Algorithms are stable by nature, such as Bubble Sort, Insertion Sor
 Quick Sort, Heap Sort etc., can be made stable by also taking the position of the elements into consideration. This change may be done in a way which does not compromise a lot on the performance and takes some extra space, possibly O(n).
 
 # Important MCQ's
-https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq/
-https://letsfindcourse.com/technical-questions/dsa-mcq/sorting
-careerride.com/view/mcqs-on-sorting-with-answers-19637.aspx
+https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq/ \
+https://letsfindcourse.com/technical-questions/dsa-mcq/sorting \ 
+https://www.careerride.com/view/mcqs-on-sorting-with-answers-19637.aspx
+
