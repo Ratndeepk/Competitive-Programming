@@ -8,6 +8,10 @@ https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon
 # Leetcode ->
 https://leetcode.com/explore/interview/card/top-interview-questions-hard/ 
 
+# DSA 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
+
+
 Array:
 
 Subarray with given sum ,
