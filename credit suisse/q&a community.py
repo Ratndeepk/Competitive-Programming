@@ -1,90 +1,64 @@
 import collections
 # Participants may update the following function parameters
+
+def dfs(x,graph,visited,count,flag):
+    if flag==0:
+        for i in graph[x]:
+            try:
+                if x in graph[i]:
+                    visited[x]=True 
+                    return 
+            except KeyError:
+                pass 
+    
+    flag=1
+    try:
+        if graph[x]:
+            pass 
+    except KeyError:
+        return 0
+    for i in graph[x]:
+        if count[0]>=2:
+            break
+        if visited[i]==True:
+            count[0]+=1  
+            continue 
+
+
+        if dfs(i,graph,visited,count,flag)==0:
+            continue
+        dfs(x, graph, visited, count, flag)
+        
+        return 
+            
+    return 
 def findSuspiciousUserId(numOfQuestions, questionAndAnswerListOfList):
-    flat_list = [item for sublist in questionAndAnswerListOfList for item in sublist]
-    n = max(len(questionAndAnswerListOfList),max(flat_list))
-    dic=dict.fromkeys(range(1,n+1),[0])
-    sus=[] 
     
+    graph={}
     for i in questionAndAnswerListOfList:
-        dic[i[0]]=i[1:]
-    #print(dic)
-    for i in range(1,n+1):
-        for j in range(1,n+1):
-            if i!=j and dic[i]!=[0]:
-                if (j in dic[i] and i in dic[j]):
-                    #print("Here1")
-                    if i not in sus:
-                        sus.append(i)
-                        break
-                elif len(list(set(dic[i]) & set(sus)))>=2:
-                    #print("here 2")
-                    if i not in sus:
-                        sus.append(i) 
-                        break
-                else:
-                    #print("Here")
-                    count=0
-                    #print(dic[i])
-                    for k in dic[i]:
-                        #print(count,dic[k])
-                        
-                        if k in sus:
-                            count+=1 
-                        elif len(list(set(dic[k]) & set(sus)))>=2:
-                            count+=1 
-                        if count>=2:
-                            if i not in sus:
-                                sus.append(i)
-                            break
-                        
-    sol=""
-    if sus!=[]:
-        for i in sus:
-            sol+=str(i)+","
-        return sol[:len(sol)-1]
-    return " "
+        graph[i[0]]=i[1:]
+    n = len(questionAndAnswerListOfList)
+    visited=[False]*(10000)
+    for i in range(1,10000):
+        count=[0]
+        try:
+            if graph[i]:
+                dfs(i,graph,visited,count,0)
+        except KeyError:
+            continue 
+        if count[0]>=2:
+            visited[i]=True
+    solution=""
+    for i in range(1,10000):
+        if visited[i]==True:
+            solution+=str(i)+","
+
+    return solution[:len(solution)-1]
 
 
-    """
-    #print(dic)
-    matrix = [[False for i in range(n+1)] for i in range(n+1)]
-    #for i in matrix:
-    #    print(*i)
-    
-    for i in range(1,n+1):
-        index=0
-        for j in range(1,n+1):
-            if index<len(dic[i]):
-                if j==dic[i][index]:
-                    matrix[i][j]=True
-                    index+=1
-    #print()
-    #for i in matrix:
-    #    print(*i)
 
-    for i in range(1,n+1):
-        count=0
-        for j in range(1,n+1):
-            if matrix[i][j]==True and matrix[j][i]==True:
-                sus.append(i) 
-            elif matrix[i][j]==True:
-                if j in sus:
-                    count+=1 
-                else: 
-                    if len(set(dic[j])&set(sus))>=2:
-                        count+=1  
-            if count>=2:
-                sus.append(i)
-                break
 
-    sol=""
-    if sus!=[]:
-        for i in sus:
-            sol+=str(i)+","
-        return sol[:len(sol)-1]
-    return sol 
-    """
+
 def main():
     firstLine = input().split(" ")
     secondLine = input()
