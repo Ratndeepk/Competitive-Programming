@@ -8,15 +8,44 @@ def findSuspiciousUserId(numOfQuestions, questionAndAnswerListOfList):
     
     for i in questionAndAnswerListOfList:
         dic[i[0]]=i[1:]
-    """
-    for i in range(1,4):
-        for j in range(1,4):
-            if i!=j:
-                if dic[i]!=[0] and dic[j]!=[0]:
-                    if (j in dic[i] and i in dic[j]) or len(list(set(dic[i]) & set(sus)))>=2:
+    #print(dic)
+    for i in range(1,n+1):
+        for j in range(1,n+1):
+            if i!=j and dic[i]!=[0]:
+                if (j in dic[i] and i in dic[j]):
+                    #print("Here1")
+                    if i not in sus:
+                        sus.append(i)
+                        break
+                elif len(list(set(dic[i]) & set(sus)))>=2:
+                    #print("here 2")
+                    if i not in sus:
                         sus.append(i) 
-                        print(sus,i,j)
-    print(sus)
+                        break
+                else:
+                    #print("Here")
+                    count=0
+                    #print(dic[i])
+                    for k in dic[i]:
+                        #print(count,dic[k])
+                        
+                        if k in sus:
+                            count+=1 
+                        elif len(list(set(dic[k]) & set(sus)))>=2:
+                            count+=1 
+                        if count>=2:
+                            if i not in sus:
+                                sus.append(i)
+                            break
+                        
+    sol=""
+    if sus!=[]:
+        for i in sus:
+            sol+=str(i)+","
+        return sol[:len(sol)-1]
+    return " "
+
+
     """
     #print(dic)
     matrix = [[False for i in range(n+1)] for i in range(n+1)]
@@ -55,7 +84,7 @@ def findSuspiciousUserId(numOfQuestions, questionAndAnswerListOfList):
             sol+=str(i)+","
         return sol[:len(sol)-1]
     return sol 
-
+    """
 def main():
     firstLine = input().split(" ")
     secondLine = input()
