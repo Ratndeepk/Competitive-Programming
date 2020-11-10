@@ -28,9 +28,13 @@ Source: Geeksforgeeks
 # TOP 40 Questions Greedy Algorithm 
 
 Activity Selection Problem[https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0]
+
 • Job SequencingProblem[https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0]
+
 • Huffman Coding[https://practice.geeksforgeeks.org/problems/huffman-encoding/0]
+
 • Water Connection Problem[https://practice.geeksforgeeks.org/problems/water-connection-problem/0]
+
 • Minimum Swaps for Bracket Balancing[https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0]
 • Fitting Shelves Problem[https://www.geeksforgeeks.org/fitting-shelves-problem/]
 • Minimum cost to connect all cities[https://www.geeksforgeeks.org/minimum-cost-connect-cities/]
