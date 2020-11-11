@@ -3,58 +3,28 @@ n = int(input())
 numbers = list(map(int,input().split()))
 
 
-matrix = [[0 for i in range(n)] for i in range(n)]
+matrix = [[0 for i in range(n+1)] for i in range(n+1)]
 
-
-for i in range(n):
-    for j in range(n):
-        if i!=j:
-            matrix[i][j]=numbers[i]*numbers[j]
-
-
-sol = float("-inf")
-for i in range(n-1):
-    index=i
-    cur_sol=0
-    for j in range(n-1,-1,-1):
-        #print(matrix[index][j])
-        cur_sol+=matrix[index][j]
-        index+=1 
-
-        if index>=math.ceil(n/2):
-            break
-    if sol<cur_sol:
-        sol=cur_sol
-
-"""
-for i in range(n-1):
-    index=0
-    cur_sol=0
-    for j in range(n-2,-1,-1):
-        print(matrix[index][j])
-        cur_sol+=matrix[index][j]
-        index+=1 
-
-        if index>=((n-1)/2):
-            break
-    if sol<cur_sol:
-        sol=cur_sol
-"""
-flag=0
-for j in range(n-2,0,-1):
-    index=j 
-    cur_sol=0 
+index=n-1
+for i in range(1,n):
+    index1=0
+    for j in range(1,n):
+        matrix[i][j]=matrix[i-1][j-1]+(numbers[index1]*numbers[index])
+        index1+=1
+    index-=1 
     
-    
-        
-    for i in range((n//2)-flag):
-        #print(i,index)
-        #print(matrix[i][index])
-        cur_sol+=matrix[i][index]
-        index-=1
-    flag+=1
-    if sol<cur_sol:
-        sol=cur_sol
-
-
+sol = matrix[0][n]
 print(sol)
+index=n-1
+for i in range(1,n):
+    if sol<matrix[i][index]:
+        sol=matrix[i][index]
+    print(matrix[i][index])
+    index-=1 
+
+
+for i in matrix:
+    print(*i)
+print(sol) 
+
+
