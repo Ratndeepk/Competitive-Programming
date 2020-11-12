@@ -99,117 +99,117 @@ String	Check if two given strings are isomorphic to each other
 String	Recursively print all sentences that can be formed from list of word lists  
 	
 	
-Searching & Sorting	Find first and last positions of an element in a sorted array
-Searching & Sorting	Find a Fixed Point (Value equal to index) in a given array
-Searching & Sorting	Search in a rotated sorted array
-Searching & Sorting	square root of an integer
-Searching & Sorting	Maximum and minimum of an array using minimum number of comparisons
-Searching & Sorting	Optimum location of point to minimize total distance
-Searching & Sorting	Find the repeating and the missing
-Searching & Sorting	find majority element
-Searching & Sorting	Searching in an array where adjacent differ by at most k
-Searching & Sorting	find a pair with a given difference
-Searching & Sorting	find four elements that sum to a given value
-Searching & Sorting	maximum sum such that no 2 elements are adjacent
-Searching & Sorting	Count triplet with sum smaller than a given value
-Searching & Sorting	merge 2 sorted arrays
-Searching & Sorting	print all subarrays with 0 sum
-Searching & Sorting	Product array Puzzle
-Searching & Sorting	Sort array according to count of set bits
-Searching & Sorting	minimum no. of swaps required to sort the array
-Searching & Sorting	Bishu and Soldiers
-Searching & Sorting	Rasta and Kheshtak
-Searching & Sorting	Kth smallest number again
-Searching & Sorting	Find pivot element in a sorted array
-Searching & Sorting	K-th Element of Two Sorted Arrays
-Searching & Sorting	Aggressive cows
-Searching & Sorting	Book Allocation Problem
-Searching & Sorting	EKOSPOJ:
-Searching & Sorting	Job Scheduling Algo
-Searching & Sorting	Missing Number in AP
-Searching & Sorting	Smallest number with atleastn trailing zeroes infactorial
-Searching & Sorting	Painters Partition Problem:
-Searching & Sorting	ROTI-Prata SPOJ
-Searching & Sorting	DoubleHelix SPOJ
-Searching & Sorting	Subset Sums
-Searching & Sorting	Findthe inversion count
-Searching & Sorting	Implement Merge-sort in-place
-Searching & Sorting	Partitioning and Sorting Arrays with Many Repeated Entries
+Searching & Sorting	Find first and last positions of an element in a sorted array  
+Searching & Sorting	Find a Fixed Point (Value equal to index) in a given array  
+Searching & Sorting	Search in a rotated sorted array  
+Searching & Sorting	square root of an integer  
+Searching & Sorting	Maximum and minimum of an array using minimum number of comparisons  
+Searching & Sorting	Optimum location of point to minimize total distance  
+Searching & Sorting	Find the repeating and the missing  
+Searching & Sorting	find majority element  
+Searching & Sorting	Searching in an array where adjacent differ by at most k  
+Searching & Sorting	find a pair with a given difference  
+Searching & Sorting	find four elements that sum to a given value  
+Searching & Sorting	maximum sum such that no 2 elements are adjacent  
+Searching & Sorting	Count triplet with sum smaller than a given value  
+Searching & Sorting	merge 2 sorted arrays  
+Searching & Sorting	print all subarrays with 0 sum  
+Searching & Sorting	Product array Puzzle  
+Searching & Sorting	Sort array according to count of set bits  
+Searching & Sorting	minimum no. of swaps required to sort the array  
+Searching & Sorting	Bishu and Soldiers  
+Searching & Sorting	Rasta and Kheshtak  
+Searching & Sorting	Kth smallest number again  
+Searching & Sorting	Find pivot element in a sorted array  
+Searching & Sorting	K-th Element of Two Sorted Arrays  
+Searching & Sorting	Aggressive cows  
+Searching & Sorting	Book Allocation Problem  
+Searching & Sorting	EKOSPOJ:  
+Searching & Sorting	Job Scheduling Algo  
+Searching & Sorting	Missing Number in AP  
+Searching & Sorting	Smallest number with atleastn trailing zeroes infactorial  
+Searching & Sorting	Painters Partition Problem:  
+Searching & Sorting	ROTI-Prata SPOJ  
+Searching & Sorting	DoubleHelix SPOJ  
+Searching & Sorting	Subset Sums  
+Searching & Sorting	Findthe inversion count  
+Searching & Sorting	Implement Merge-sort in-place  
+Searching & Sorting	Partitioning and Sorting Arrays with Many Repeated Entries  
 	
 	
-LinkedList	Write a Program to reverse the Linked List. (Both Iterative and recursive)
-LinkedList	Reverse a Linked List in group of Given Size. [Very Imp]
-LinkedList	Write a program to Detect loop in a linked list.
-LinkedList	Write a program to Delete loop in a linked list.
-LinkedList	Find the starting point of the loop. 
-LinkedList	Remove Duplicates in a sorted Linked List.
-LinkedList	Remove Duplicates in a Un-sorted Linked List.
-LinkedList	Write a Program to Move the last element to Front in a Linked List.
-LinkedList	Add “1” to a number represented as a Linked List.
-LinkedList	Add two numbers represented by linked lists.
-LinkedList	Intersection of two Sorted Linked List.
-LinkedList	Intersection Point of two Linked Lists.
-LinkedList	Merge Sort For Linked lists.[Very Important]
-LinkedList	Quicksort for Linked Lists.[Very Important]
-LinkedList	Find the middle Element of a linked list.
-LinkedList	Check if a linked list is a circular linked list.
-LinkedList	Split a Circular linked list into two halves.
-LinkedList	Write a Program to check whether the Singly Linked list is a palindrome or not.
-LinkedList	Deletion from a Circular Linked List.
-LinkedList	Reverse a Doubly Linked list.
-LinkedList	Find pairs with a given sum in a DLL.
-LinkedList	Count triplets in a sorted DLL whose sum is equal to given value “X”.
-LinkedList	Sort a “k”sorted Doubly Linked list.[Very IMP]
-LinkedList	Rotate DoublyLinked list by N nodes.
-LinkedList	Rotate a Doubly Linked list in group of Given Size.[Very IMP]
-LinkedList	Can we reverse a linked list in less than O(n) ?
-LinkedList	Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
-LinkedList	Flatten a Linked List
-LinkedList	Sort a LL of 0's, 1's and 2's
-LinkedList	Clone a linked list with next and random pointer
-LinkedList	Merge K sorted Linked list
-LinkedList	Multiply 2 no. represented by LL
-LinkedList	Delete nodes which have a greater value on right side
-LinkedList	Segregate even and odd nodes in a Linked List
-LinkedList	Program for n’th node from the end of a Linked List
-LinkedList	Find the first non-repeating character from a stream of characters
+LinkedList	Write a Program to reverse the Linked List. (Both Iterative and recursive)  
+LinkedList	Reverse a Linked List in group of Given Size. [Very Imp]  
+LinkedList	Write a program to Detect loop in a linked list.  
+LinkedList	Write a program to Delete loop in a linked list.  
+LinkedList	Find the starting point of the loop.   
+LinkedList	Remove Duplicates in a sorted Linked List.  
+LinkedList	Remove Duplicates in a Un-sorted Linked List.  
+LinkedList	Write a Program to Move the last element to Front in a Linked List.  
+LinkedList	Add “1” to a number represented as a Linked List.  
+LinkedList	Add two numbers represented by linked lists.  
+LinkedList	Intersection of two Sorted Linked List.  
+LinkedList	Intersection Point of two Linked Lists.  
+LinkedList	Merge Sort For Linked lists.[Very Important]  
+LinkedList	Quicksort for Linked Lists.[Very Important]  
+LinkedList	Find the middle Element of a linked list.  
+LinkedList	Check if a linked list is a circular linked list.  
+LinkedList	Split a Circular linked list into two halves.  
+LinkedList	Write a Program to check whether the Singly Linked list is a palindrome or not.  
+LinkedList	Deletion from a Circular Linked List.  
+LinkedList	Reverse a Doubly Linked list.  
+LinkedList	Find pairs with a given sum in a DLL.  
+LinkedList	Count triplets in a sorted DLL whose sum is equal to given value “X”.  
+LinkedList	Sort a “k”sorted Doubly Linked list.[Very IMP]  
+LinkedList	Rotate DoublyLinked list by N nodes.  
+LinkedList	Rotate a Doubly Linked list in group of Given Size.[Very IMP]  
+LinkedList	Can we reverse a linked list in less than O(n) ?  
+LinkedList	Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?  
+LinkedList	Flatten a Linked List  
+LinkedList	Sort a LL of 0's, 1's and 2's  
+LinkedList	Clone a linked list with next and random pointer  
+LinkedList	Merge K sorted Linked list  
+LinkedList	Multiply 2 no. represented by LL  
+LinkedList	Delete nodes which have a greater value on right side  
+LinkedList	Segregate even and odd nodes in a Linked List  
+LinkedList	Program for n’th node from the end of a Linked List  
+LinkedList	Find the first non-repeating character from a stream of characters  
 	
 	
-Binary Trees	level order traversal
-Binary Trees	Reverse Level Order traversal
-Binary Trees	Height of a tree
-Binary Trees	Diameter of a tree
-Binary Trees	Mirror of a tree
-Binary Trees	Inorder Traversal of a tree both using recursion and Iteration
-Binary Trees	Preorder Traversal of a tree both using recursion and Iteration
-Binary Trees	Postorder Traversal of a tree both using recursion and Iteration
-Binary Trees	Left View of a tree
-Binary Trees	Right View of Tree
-Binary Trees	Top View of a tree
-Binary Trees	Bottom View of a tree
-Binary Trees	Zig-Zag traversal of a binary tree
-Binary Trees	Check if a tree is balanced or not
-Binary Trees	Diagnol Traversal of a Binary tree
-Binary Trees	Boundary traversal of a Binary tree
-Binary Trees	Construct Binary Tree from String with Bracket Representation
-Binary Trees	Convert Binary tree into Doubly Linked List
-Binary Trees	Convert Binary tree into Sum tree
-Binary Trees	Construct Binary tree from Inorder and preorder traversal
-Binary Trees	Find minimum swaps required to convert a Binary tree into BST
-Binary Trees	Check if Binary tree is Sum tree or not
-Binary Trees	Check if all leaf nodes are at same level or not
-Binary Trees	Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]
-Binary Trees	Check if 2 trees are mirror or not
-Binary Trees	Sum of Nodes on the Longest path from root to leaf node 
-Binary Trees	Check if given graph is tree or not.  [ IMP ]
-Binary Trees	Find Largest subtree sum in a tree
-Binary Trees	Maximum Sum of nodes in Binary tree such that no two are adjacent 
-Binary Trees	Print all "K" Sum paths in a Binary tree
-Binary Trees	Find LCA in a Binary tree
-Binary Trees	Find distance between 2 nodes in a Binary tree
-Binary Trees	Kth Ancestor of node in a Binary tree
-Binary Trees	Find all Duplicate subtrees in a Binary tree [ IMP ]
-Binary Trees	Tree Isomorphism Problem
+Binary Trees	level order traversal  
+Binary Trees	Reverse Level Order traversal  
+Binary Trees	Height of a tree  
+Binary Trees	Diameter of a tree  
+Binary Trees	Mirror of a tree  
+Binary Trees	Inorder Traversal of a tree both using recursion and Iteration  
+Binary Trees	Preorder Traversal of a tree both using recursion and Iteration  
+Binary Trees	Postorder Traversal of a tree both using recursion and Iteration  
+Binary Trees	Left View of a tree  
+Binary Trees	Right View of Tree  
+Binary Trees	Top View of a tree  
+Binary Trees	Bottom View of a tree  
+Binary Trees	Zig-Zag traversal of a binary tree  
+Binary Trees	Check if a tree is balanced or not  
+Binary Trees	Diagnol Traversal of a Binary tree  
+Binary Trees	Boundary traversal of a Binary tree  
+Binary Trees	Construct Binary Tree from String with Bracket Representation  
+Binary Trees	Convert Binary tree into Doubly Linked List  
+Binary Trees	Convert Binary tree into Sum tree  
+Binary Trees	Construct Binary tree from Inorder and preorder traversal  
+Binary Trees	Find minimum swaps required to convert a Binary tree into BST  
+Binary Trees	Check if Binary tree is Sum tree or not  
+Binary Trees	Check if all leaf nodes are at same level or not  
+Binary Trees	Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]  
+Binary Trees	Check if 2 trees are mirror or not  
+Binary Trees	Sum of Nodes on the Longest path from root to leaf node   
+Binary Trees	Check if given graph is tree or not.  [ IMP ]  
+Binary Trees	Find Largest subtree sum in a tree  
+Binary Trees	Maximum Sum of nodes in Binary tree such that no two are adjacent   
+Binary Trees	Print all "K" Sum paths in a Binary tree  
+Binary Trees	Find LCA in a Binary tree  
+Binary Trees	Find distance between 2 nodes in a Binary tree  
+Binary Trees	Kth Ancestor of node in a Binary tree  
+Binary Trees	Find all Duplicate subtrees in a Binary tree [ IMP ]  
+Binary Trees	Tree Isomorphism Problem  
 	
 	
 Binary Search Trees	Fina a value in a BST
