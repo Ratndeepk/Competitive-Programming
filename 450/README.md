@@ -212,86 +212,86 @@ Binary Trees	Find all Duplicate subtrees in a Binary tree [ IMP ]
 Binary Trees	Tree Isomorphism Problem  
 	
 	
-Binary Search Trees	Fina a value in a BST
-Binary Search Trees	Deletion of a node in a BST
-Binary Search Trees	Find min and max value in a BST
-Binary Search Trees	Find inorder successor and inorder predecessor in a BST
-Binary Search Trees	Check if a tree is a BST or not 
-Binary Search Trees	Populate Inorder successor of all nodes
-Binary Search Trees	Find LCA  of 2 nodes in a BST
-Binary Search Trees	Construct BST from preorder traversal
-Binary Search Trees	Convert Binary tree into BST
-Binary Search Trees	Convert a normal BST into a Balanced BST
-Binary Search Trees	Merge two BST [ V.V.V>IMP ]
-Binary Search Trees	Find Kth largest element in a BST
-Binary Search Trees	Find Kth smallest element in a BST
-Binary Search Trees	Count pairs from 2 BST whose sum is equal to given value "X"
-Binary Search Trees	Find the median of BST in O(n) time and O(1) space
-Binary Search Trees	Count BST ndoes that lie in a given range
-Binary Search Trees	Replace every element with the least greater element on its right
-Binary Search Trees	Given "n" appointments, find the conflicting appointments
-Binary Search Trees	Check preorder is valid or not
-Binary Search Trees	Check whether BST contains Dead end
-Binary Search Trees	Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
-Binary Search Trees	Flatten BST to sorted list
+Binary Search Trees	Fina a value in a BST  
+Binary Search Trees	Deletion of a node in a BST  
+Binary Search Trees	Find min and max value in a BST  
+Binary Search Trees	Find inorder successor and inorder predecessor in a BST  
+Binary Search Trees	Check if a tree is a BST or not   
+Binary Search Trees	Populate Inorder successor of all nodes  
+Binary Search Trees	Find LCA  of 2 nodes in a BST  
+Binary Search Trees	Construct BST from preorder traversal  
+Binary Search Trees	Convert Binary tree into BST  
+Binary Search Trees	Convert a normal BST into a Balanced BST  
+Binary Search Trees	Merge two BST [ V.V.V>IMP ]  
+Binary Search Trees	Find Kth largest element in a BST  
+Binary Search Trees	Find Kth smallest element in a BST  
+Binary Search Trees	Count pairs from 2 BST whose sum is equal to given value "X"  
+Binary Search Trees	Find the median of BST in O(n) time and O(1) space  
+Binary Search Trees	Count BST ndoes that lie in a given range  
+Binary Search Trees	Replace every element with the least greater element on its right  
+Binary Search Trees	Given "n" appointments, find the conflicting appointments  
+Binary Search Trees	Check preorder is valid or not  
+Binary Search Trees	Check whether BST contains Dead end  
+Binary Search Trees	Largest BST in a Binary Tree [ V.V.V.V.V IMP ]  
+Binary Search Trees	Flatten BST to sorted list  
 	
 	
-Greedy	Activity Selection Problem
-Greedy	Job SequencingProblem
-Greedy	Huffman Coding
-Greedy	Water Connection Problem
-Greedy	Fractional Knapsack Problem
-Greedy	Greedy Algorithm to find Minimum number of Coins
-Greedy	Maximum trains for which stoppage can be provided
-Greedy	Minimum Platforms Problem
-Greedy	Buy Maximum Stocks if i stocks can be bought on i-th day
-Greedy	Find the minimum and maximum amount to buy all N candies
-Greedy	Minimize Cash Flow among a given set of friends who have borrowed money from each other
-Greedy	Minimum Cost to cut a board into squares
-Greedy	Check if it is possible to survive on Island
-Greedy	Find maximum meetings in one room
-Greedy	Maximum product subset of an array
-Greedy	Maximize array sum after K negations
-Greedy	Maximize the sum of arr[i]*i
-Greedy	Maximum sum of absolute difference of an array
-Greedy	Maximize sum of consecutive differences in a circular array
-Greedy	Minimum sum of absolute difference of pairs of two arrays
-Greedy	Program for Shortest Job First (or SJF) CPU Scheduling
-Greedy	Program for Least Recently Used (LRU) Page Replacement algorithm
-Greedy	Smallest subset with sum greater than all other elements
-Greedy	Chocolate Distribution Problem
-Greedy	DEFKIN -Defense of a Kingdom
-Greedy	DIEHARD -DIE HARD
-Greedy	GERGOVIA -Wine trading in Gergovia
-Greedy	Picking Up Chicks
-Greedy	CHOCOLA –Chocolate
-Greedy	ARRANGE -Arranging Amplifiers
-Greedy	K Centers Problem
-Greedy	Minimum Cost of ropes
-Greedy	Find smallest number with given number of digits and sum of digits
-Greedy	Rearrange characters in a string such that no two adjacent are same
-Greedy	Find maximum sum possible equal sum of three stacks
+Greedy	Activity Selection Problem  
+Greedy	Job SequencingProblem  
+Greedy	Huffman Coding  
+Greedy	Water Connection Problem  
+Greedy	Fractional Knapsack Problem  
+Greedy	Greedy Algorithm to find Minimum number of Coins  
+Greedy	Maximum trains for which stoppage can be provided  
+Greedy	Minimum Platforms Problem  
+Greedy	Buy Maximum Stocks if i stocks can be bought on i-th day  
+Greedy	Find the minimum and maximum amount to buy all N candies  
+Greedy	Minimize Cash Flow among a given set of friends who have borrowed money from each other  
+Greedy	Minimum Cost to cut a board into squares  
+Greedy	Check if it is possible to survive on Island  
+Greedy	Find maximum meetings in one room  
+Greedy	Maximum product subset of an array  
+Greedy	Maximize array sum after K negations  
+Greedy	Maximize the sum of arr[i]*i  
+Greedy	Maximum sum of absolute difference of an array  
+Greedy	Maximize sum of consecutive differences in a circular array  
+Greedy	Minimum sum of absolute difference of pairs of two arrays  
+Greedy	Program for Shortest Job First (or SJF) CPU Scheduling  
+Greedy	Program for Least Recently Used (LRU) Page Replacement algorithm  
+Greedy	Smallest subset with sum greater than all other elements  
+Greedy	Chocolate Distribution Problem  
+Greedy	DEFKIN -Defense of a Kingdom  
+Greedy	DIEHARD -DIE HARD  
+Greedy	GERGOVIA -Wine trading in Gergovia  
+Greedy	Picking Up Chicks  
+Greedy	CHOCOLA –Chocolate  
+Greedy	ARRANGE -Arranging Amplifiers  
+Greedy	K Centers Problem  
+Greedy	Minimum Cost of ropes  
+Greedy	Find smallest number with given number of digits and sum of digits  
+Greedy	Rearrange characters in a string such that no two adjacent are same  
+Greedy	Find maximum sum possible equal sum of three stacks  
+	 
 	
-	
-BackTracking	Rat in a maze Problem
-BackTracking	Printing all solutions in N-Queen Problem
-BackTracking	Word Break Problem using Backtracking
-BackTracking	Remove Invalid Parentheses
-BackTracking	Sudoku Solver
-BackTracking	m Coloring Problem
-BackTracking	Print all palindromic partitions of a string
-BackTracking	Subset Sum Problem
-BackTracking	The Knight’s tour problem
-BackTracking	Tug of War
-BackTracking	Find shortest safe route in a path with landmines
-BackTracking	Combinational Sum
-BackTracking	Find Maximum number possible by doing at-most K swaps
-BackTracking	Print all permutations of a string 
-BackTracking	Find if there is a path of more than k length from a source
-BackTracking	Longest Possible Route in a Matrix with Hurdles
-BackTracking	Print all possible paths from top left to bottom right of a mXn matrix
-BackTracking	Partition of a set intoK subsets with equal sum
-BackTracking	Find the K-th Permutation Sequence of first N natural numbers
+BackTracking	Rat in a maze Problem  
+BackTracking	Printing all solutions in N-Queen Problem  
+BackTracking	Word Break Problem using Backtracking  
+BackTracking	Remove Invalid Parentheses  
+BackTracking	Sudoku Solver  
+BackTracking	m Coloring Problem  
+BackTracking	Print all palindromic partitions of a string  
+BackTracking	Subset Sum Problem  
+BackTracking	The Knight’s tour problem  
+BackTracking	Tug of War  
+BackTracking	Find shortest safe route in a path with landmines  
+BackTracking	Combinational Sum  
+BackTracking	Find Maximum number possible by doing at-most K swaps  
+BackTracking	Print all permutations of a string   
+BackTracking	Find if there is a path of more than k length from a source  
+BackTracking	Longest Possible Route in a Matrix with Hurdles  
+BackTracking	Print all possible paths from top left to bottom right of a mXn matrix  
+BackTracking	Partition of a set intoK subsets with equal sum  
+BackTracking	Find the K-th Permutation Sequence of first N natural numbers  
 	
 	
 Stacks & Queues	 Implement Stack from Scratch
