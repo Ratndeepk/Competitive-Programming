@@ -25,22 +25,23 @@ class BTree:
                     break 
                 else: 
                     root=root.left 
-    def levelorder(self,root):
-        queue=[] 
-        queue.append(root) 
+    
+    def reverseLevelOrder(self,root):
+   
+        stack=[]
+        queue=[root]
         while queue!=[]:
-            print(queue[0],end=" ") 
-            cur_root=queue.pop() 
-            if cur_root.left: 
-                queue.append(cur_root.left) 
+            stack.insert(0,queue[0].data)
+            cur_root=queue.pop(0)
             if cur_root.right:
-                queue.append(cur_root.right)  
-
-        print() 
+                queue.append(cur_root.right)
+            if cur_root.left:
+                queue.append(cur_root.left)
+        return stack
 
 bt = BTree() 
 data = list(map(int,input().split()))
 for i in range(len(data)):
     bt.addNode(data[i]) 
-bt.levelorder(bt.root) 
+print(*bt.reverseLevelOrder(bt.root))
 
