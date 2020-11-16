@@ -3,17 +3,16 @@
   ✅ Push 
   You're IN!
 # Book for CP -> 
-(Handbook)   
-https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view  
-(Cracking the Coding Interview) https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf
-# Geeksforgeeks ->
+### Handbook [Click Here](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
+  
+### Cracking the Coding Interview [Click Here](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)
+# Geeksforgeeks  
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
 # Save files in your own directory (Topic Name) -> (Your Name) -> Your Program
 # Leetcode ->
 https://leetcode.com/explore/interview/card/top-interview-questions-hard/ 
 
-# DSA 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
+# Course on DataStructure & Algorithms [Click Here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 
 
 Array:
