@@ -40,3 +40,5 @@ The standard Segment Tree requires 4n vertices for working on an array of size n
 * CSES - Hotel Queries
 * CSES - Polynomial Queries
 * CSES - Range Updates and Sums
+
+Source: CP-algorithms 
