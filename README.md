@@ -5,6 +5,18 @@
   
 ### Save files in your own directory (Topic Name) -> (Your Name) -> Your Program  
   
+# Day 1 (450Q Babbar) 
+* https://practice.geeksforgeeks.org/problems/reverse-a-string/1  
+* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1  
+* https://leetcode.com/problems/reverse-string/  
+* https://practice.geeksforgeeks.org/problems/palindrome-string0817/1  
+* https://practice.geeksforgeeks.org/problems/level-order-traversal/1  
+* https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#  
+* https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1  
+* https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1    
+  
+  
+  
 # Book for CP -> 
 ### Handbook [Click Here](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
   
