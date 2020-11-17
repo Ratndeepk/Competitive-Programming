@@ -5,15 +5,15 @@
   
 ### Save files in your own directory (Topic Name) -> (Your Name) -> Your Program  
   
-# Day 1 (450Q Babbar) 
-* https://practice.geeksforgeeks.org/problems/reverse-a-string/1  
-* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1  
-* https://leetcode.com/problems/reverse-string/  
-* https://practice.geeksforgeeks.org/problems/palindrome-string0817/1  
-* https://practice.geeksforgeeks.org/problems/level-order-traversal/1  
-* https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#  
-* https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1  
-* https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1    
+# Day 2 (450Q Babbar) 
+* https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 
+* https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+* https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
+* https://leetcode.com/problems/search-a-2d-matrix/  
+* https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0 
+* https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1 
+* https://leetcode.com/problems/search-in-rotated-sorted-array/ 
+* https://practice.geeksforgeeks.org/problems/count-squares3649/1    
   
   
   
