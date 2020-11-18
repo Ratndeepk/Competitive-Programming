@@ -4,7 +4,9 @@
   You're IN!  
   
 ### Save files in your own directory (Topic Name) -> (Your Name) -> Your Program  
-  
+
+### Old questions are available in wiki! 
+
 # Day 3 (450Q Babbar) 
 * https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ (Only Editorial Available) 
 * https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0
