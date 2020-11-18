@@ -37,8 +37,7 @@ Third Command -> **git pull origin master**
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/1-Github-Git-help/2.png?raw=true)
 
 Now if you open folder you'll find everything copied from repo!
-------------------------------------------------------------------
-Now, You can add your folder **remember empty folder are not visible on github** add your programs. 
+You can add your folder **remember empty folder are not visible on github** add your programs. 
 -------------------------------------------------------------------------------------------------
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/1-Github-Git-help/4.png?raw=true)
 
