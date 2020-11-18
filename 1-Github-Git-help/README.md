@@ -44,13 +44,12 @@ Now, You can add your folder (remember empty folder are not visible on github) a
 
 Last but not the least!
 You gotta do this everytime so learn it! 
-* Next Command **git add .**   (This will add all new changes to local repo) 
+* First Command **git add .**   (This will add all new changes to local repo) 
 ----------------------------------------------------------------------------
-* Next command **git commit -m "Your Comment"** (This will finalize your commit)
+* Second command **git commit -m "Your Comment"** (This will finalize your commit)
 --------------------------------------------------------------------------------
-* Last Command 
-
-(When pushing first time) -> **git push -u origin master**      
-(After first push is happened) -> **git push**  
+* Last Command   
+When pushing first time -> **git push -u origin master**      
+After first push is happened -> **git push**  
 --------------------------------------------------------------------------------
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/1-Github-Git-help/5.png?raw=true)
