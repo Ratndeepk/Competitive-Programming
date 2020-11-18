@@ -50,6 +50,6 @@ You gotta do this everytime so learn it!
 --------------------------------------------------------------------------------
 * Last Command   
 When pushing first time -> **git push -u origin master**      
-After first push is happened -> **git push**  
+After first push has happened -> **git push**  
 --------------------------------------------------------------------------------
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/1-Github-Git-help/5.png?raw=true)
