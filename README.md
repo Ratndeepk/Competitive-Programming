@@ -5,15 +5,15 @@
   
 ### Save files in your own directory (Topic Name) -> (Your Name) -> Your Program  
   
-# Day 2 (450Q Babbar) 
-* https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 
-* https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
-* https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
-* https://leetcode.com/problems/search-a-2d-matrix/  
-* https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0 
-* https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1 
-* https://leetcode.com/problems/search-in-rotated-sorted-array/ 
-* https://practice.geeksforgeeks.org/problems/count-squares3649/1    
+# Day 3 (450Q Babbar) 
+* https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ (Only Editorial Available) 
+* https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0
+* https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ (Only Editorial Available) 
+* Why Strings are immutable? (Upload Reason)  
+* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1 (Try both iterative & recursive)
+* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 (Vip)
+* https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1 
+* https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1   
   
   
   
