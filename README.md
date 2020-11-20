@@ -4,31 +4,34 @@
   You're IN!  
   
 ### Save files in your own directory (Topic Name) -> (Your Name) -> Your Program  
-  
-# Day 2 (450Q Babbar) 
-* https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1 
-* https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
-* https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
-* https://leetcode.com/problems/search-a-2d-matrix/  
-* https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0 
-* https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1 
-* https://leetcode.com/problems/search-in-rotated-sorted-array/ 
-* https://practice.geeksforgeeks.org/problems/count-squares3649/1    
+
+### Old questions are available in wiki! 
+
+# Day 3 (450Q Babbar) 
+* https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ (Only Editorial Available) 
+* https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0
+* https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ (Only Editorial Available) 
+* Why Strings are immutable? (Upload Reason)  
+* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1 (Try both iterative & recursive)
+* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 (Vip)
+* https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1 
+* https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1   
   
   
   
 # Book for CP -> 
-### Handbook [Click Here](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
-  
-### Cracking the Coding Interview [Click Here](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)
+* Handbook [Click Here](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
+* Cracking the Coding Interview [Click Here](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)
 
-## CP-Algorithms [Click Here](https://cp-algorithms.com/)
-## Geeksforgeeks [Click Here](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
+### CP-Algorithms (Best Articles) [Click Here](https://cp-algorithms.com/)
+### Geeksforgeeks (Top Interview Questions) [Click Here](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
+### Leetcode (Top Interview Questions) [Click here](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
 
-## Leetcode [Click here](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
-
-## Course on DataStructure & Algorithms [Click Here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
-
+## Important Subjects:
+* DataStructure & Algorithms [Click Here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+* Operating System [Click Here](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
+* Computer Networks [Click Here](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
+* DataBase Management Systems [Click Here](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
 
 Array:
 
