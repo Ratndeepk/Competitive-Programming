@@ -1,9 +1,41 @@
-# Link to everything ->
-# https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/ 
-# save files in your own directory (Topic Name) -> (Your Name) -> Your Program
+
+![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
+### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
+
+## Day 4 (450Q Babbar) 🚀
+* https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1 
+* https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0 (VVIP)
+* https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 (VVIP)
+* https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1 
+* https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1
+* https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1 (Backtracking)  
+  
+![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
+ ### Books:
+* [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
+* [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
+### Important Links
+* [CP-Algorithms](https://cp-algorithms.com/) 
+* [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
+* [Leetcode (Top Interview Questions)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
+
+## Important Subjects:
+* [DataStructure & Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+* [Operating System](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
+* [Computer Networks](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
+* [DataBase Management Systems](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
+
+## Contributors: 
+<a href="https://github.com/Ratndeepk/Competitive-Programming/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Ratndeepk/Competitive-Programming" /></a>  
+  
+    
+## Topics Covering Soon:
 
 
-Arrays :
+
+[Array](https://github.com/Ratndeepk/Competitive-Programming/tree/master/array):
 
 Subarray with given sum ,
 Count the triplets ,
@@ -29,7 +61,7 @@ Last Index of 1,
 Spirally traversing a matrix,
 Largest Number formed from an Array,
 
-String :
+[String](https://github.com/Ratndeepk/Competitive-Programming/tree/master/string) :
 
 Reverse words in a given string,
 Permutations of a given string,
@@ -45,7 +77,7 @@ Implement Atoi,
 Implement strstr,
 Longest Common Prefix,
 
-Linked List :
+[Linked List](https://github.com/Ratndeepk/Competitive-Programming/tree/master/linkedlist) :
 
 Finding middle element in a linked list,
 Reverse a linked list,
@@ -66,7 +98,7 @@ Implement Stack using Linked List,
 Given a linked list of 0s, 1s and 2s, sort it,
 Delete without head pointer,
 
-Stack and Queue :
+[Stack and Queue](https://github.com/Ratndeepk/Competitive-Programming/tree/master/linkedlist) :
 
 Parenthesis Checker,
 Next larger element,
