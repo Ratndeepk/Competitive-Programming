@@ -1,6 +1,6 @@
 
-![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming?style=for-the-badge)
-![Commits](https://img.shields.io/github/commit-activity/w/Ratndeepk/Competitive-Programming?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
+![Commits](https://img.shields.io/github/commit-activity/w/Ratndeepk/Competitive-Programming)
 ### Old questions are available in wiki! 
 
 # Day 4 (450Q Babbar) 
