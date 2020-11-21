@@ -1,22 +1,14 @@
-✅ Pull 
-  ✅ Add your folder 
-  ✅ Push 
-  You're IN!  
-  
-### Save files in your own directory (Topic Name) -> (Your Name) -> Your Program  
+[![Visits Badge](https://badges.pufler.dev/visits/Ratndeepk/Competitive-Programming)](https://badges.pufler.dev)  [![Updated Badge](https://badges.pufler.dev/updated/Ratndeepk/Competitive-Programming)](https://badges.pufler.dev)[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)](https://badges.pufler.dev)
 
 ### Old questions are available in wiki! 
 
-# Day 3 (450Q Babbar) 
-* https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ (Only Editorial Available) 
-* https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0
-* https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/ (Only Editorial Available) 
-* Why Strings are immutable? (Upload Reason)  
-* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1 (Try both iterative & recursive)
-* https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1 (Vip)
-* https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1 
-* https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1   
-  
+# Day 4 (450Q Babbar) 
+* https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1 
+* https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0 (VVIP)
+* https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 (VVIP)
+* https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1 
+* https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1
+* https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1 (Backtracking)  
   
   
 # Book for CP -> 
