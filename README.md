@@ -12,19 +12,19 @@
 * https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1 (Backtracking)  
   
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
- 
+ ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
 * [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
-
+### Important Links
 * [CP-Algorithms](https://cp-algorithms.com/) 
 * [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
 * [Leetcode (Top Interview Questions)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
 
 ## Important Subjects:
-* DataStructure & Algorithms [Click Here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
-* Operating System [Click Here](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
-* Computer Networks [Click Here](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
-* DataBase Management Systems [Click Here](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
+* [DataStructure & Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+* [Operating System](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
+* [Computer Networks](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
+* [DataBase Management Systems](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
 
 Array:
 
