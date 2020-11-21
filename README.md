@@ -26,7 +26,16 @@
 * [Computer Networks](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 * [DataBase Management Systems](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
 
-Array:
+## Contributors: 
+<a href="https://github.com/Ratndeepk/Competitive-Programming/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Ratndeepk/Competitive-Programming" /></a>  
+  
+    
+## Topics Covering Soon:
+
+
+
+[Array](https://github.com/Ratndeepk/Competitive-Programming/tree/master/array):
 
 Subarray with given sum ,
 Count the triplets ,
@@ -52,7 +61,7 @@ Last Index of 1,
 Spirally traversing a matrix,
 Largest Number formed from an Array,
 
-String :
+[String](https://github.com/Ratndeepk/Competitive-Programming/tree/master/string) :
 
 Reverse words in a given string,
 Permutations of a given string,
@@ -68,7 +77,7 @@ Implement Atoi,
 Implement strstr,
 Longest Common Prefix,
 
-Linked List :
+[Linked List](https://github.com/Ratndeepk/Competitive-Programming/tree/master/linkedlist) :
 
 Finding middle element in a linked list,
 Reverse a linked list,
@@ -89,7 +98,7 @@ Implement Stack using Linked List,
 Given a linked list of 0s, 1s and 2s, sort it,
 Delete without head pointer,
 
-Stack and Queue :
+[Stack and Queue](https://github.com/Ratndeepk/Competitive-Programming/tree/master/linkedlist) :
 
 Parenthesis Checker,
 Next larger element,
