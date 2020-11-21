@@ -1,7 +1,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
-### Old questions are available in wiki! 🐞
+### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
 ## Day 4 (450Q Babbar) 🚀
 * https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1 
