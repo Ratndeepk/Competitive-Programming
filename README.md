@@ -1,5 +1,6 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Ratndeepk/Competitive-Programming)](https://badges.pufler.dev)  [![Updated Badge](https://badges.pufler.dev/updated/Ratndeepk/Competitive-Programming)](https://badges.pufler.dev)[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)](https://badges.pufler.dev)
 
+![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/w/Ratndeepk/Competitive-Programming?style=for-the-badge)
 ### Old questions are available in wiki! 
 
 # Day 4 (450Q Babbar) 
