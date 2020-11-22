@@ -5,8 +5,8 @@
 
 ## Day 4 (450Q Babbar) 🚀
 * https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1 
-* https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0 (VVIP)
-* https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 (VVIP)
+* https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0 
+* https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 🔥
 * https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1 
 * https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1
 * https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1 (Backtracking)  
