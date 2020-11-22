@@ -20,6 +20,24 @@ class Solution:
             dic[i] = 1
 
 
-            ### BEST time n, space 1
+            ### Hare and tortoise approach BEST time n, space 1
+
+class Solution:
+    def findDuplicate(self, nums):
+        # Find the intersection point of the two runners.
+        tor = hare = nums[0]
+
+        while True:
+            tor = nums[tor]
+            hare = nums[nums[hare]]
+            if tor == hare:
+                break
+        tor = nums[0]
+
+        while tor != hare:
+            tor = nums[tor]
+            hare = nums[hare]
+
+        return hare
 
 
