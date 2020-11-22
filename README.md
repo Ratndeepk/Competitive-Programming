@@ -3,13 +3,13 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 4 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1 
-* https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0 
-* https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1 🔥
-* https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1 
-* https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1
-* https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1 (Backtracking)  
+## Day 5 (450Q Babbar) 🚀
+* https://leetcode.com/problems/count-and-say/
+* https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
+* https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+* https://practice.geeksforgeeks.org/problems/max-rectangle/1
+* https://practice.geeksforgeeks.org/problems/sorted-matrix/0
+* https://practice.geeksforgeeks.org/problems/n-queen-problem/0 (Backtracking)  
   
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
