@@ -11,6 +11,8 @@ public class ProductOfArrayExceptSelf {
 	for (int i = 0; i < n; i++) {
 	    arr[i] = sc.nextInt();
 	}
+	method1(arr, n);
+	method2(arr, n);
 	method3(arr);
 
     }
@@ -76,13 +78,8 @@ public class ProductOfArrayExceptSelf {
 	}
 
 	result[n - 1] = left[n - 2];
-
-	for (int i = n - 1; i > 0; i--) {
-	    if (arr[n - 1] != 0) {
-		product = product * arr[i];
-	    } else {
-		product = product * 1;
-	    }
+	product = arr[n - 1];
+	for (int i = n - 2; i > 0; i--) {
 	    result[i] = product * left[i - 1];
 	    product = product * arr[i];
 	}
@@ -123,7 +120,7 @@ public class ProductOfArrayExceptSelf {
 	    }
 
 	}
-	System.out.println(Arrays.toString(left));
+	System.out.println("left " + Arrays.toString(left));
 	int temp_right = 1;
 	for (int i = n - 1; i >= 0; i--) {
 	    if (arr[i] == 0) {
@@ -145,7 +142,7 @@ public class ProductOfArrayExceptSelf {
 	    }
 
 	}
-	System.out.println(Arrays.toString(right));
+	System.out.println("right " + Arrays.toString(right));
 	result[0] = right[1];
 	result[n - 1] = left[n - 2];
 	for (int i = 1; i < (n - 1); i++) {
