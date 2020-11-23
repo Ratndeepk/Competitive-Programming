@@ -1,0 +1,11 @@
+def reverseList(head):
+    
+    prev=None
+    node=head
+    while(node is not None):
+        next=node.next
+        node.next=prev
+        prev=node
+        node=next
+    head=prev
+    return head
