@@ -1,27 +1,7 @@
+//https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
+
 #include<bits/stdc++.h>
 using namespace std;
-int kthsmallest(int *, int ,int ,int );
-
-
-int main()
-{
-    int testcases;
-    cin >>testcases;
-    while(testcases--){
-        int noofelements;
-        cin>>noofelements;
-        int a[noofelements];
-        for(int i=0;i<noofelements;i++)
-            cin>>a[i];
-        int k;
-        cin>>k;
-        cout<<kthsmallest(a,0,n-1,k)<<endl;
-    }
-    return 0;
-}
-
-int randomPartition(int arr[], int l, int r);
- 
 int kthSmallest(int arr[], int l, int r, int k)
 {
     if (k > 0 && k <= r - l + 1)
