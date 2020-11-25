@@ -1,6 +1,7 @@
-* Follow this link to join whatsapp group (Contributors Only) -> https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4  
+ 
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)
 ----------------------------------------------------------------------------------------------------------------
-[![Join the chat at https://gitter.im/{Ratndeepk}/{Competitive-Programming}](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CompetitiveProgramming450/community#)
+
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
 
