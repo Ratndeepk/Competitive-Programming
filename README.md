@@ -7,15 +7,17 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 5 (450Q Babbar) 🚀
-* https://leetcode.com/problems/count-and-say/
-* https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
-* https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
-* https://practice.geeksforgeeks.org/problems/max-rectangle/1
-* https://practice.geeksforgeeks.org/problems/sorted-matrix/0
-* https://practice.geeksforgeeks.org/problems/n-queen-problem/0 (Backtracking)  
+## Day 6 (450Q Babbar) 🚀
+* https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
+* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
+* https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.
+* https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/
+* https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
+* https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
+* https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/
+* https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/
   
-![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic.png?raw=true)
+![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
 * [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
@@ -29,7 +31,7 @@
 * [Operating System](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
 * [Computer Networks](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 * [DataBase Management Systems](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
-
+* [Object Oriented Programming](https://www.youtube.com/watch?v=-DP1i2ZU9gk&t=1084s&ab_channel=MITOpenCourseWare)
 ## Contributors: 
 <a href="https://github.com/Ratndeepk/Competitive-Programming/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Ratndeepk/Competitive-Programming" /></a>  
