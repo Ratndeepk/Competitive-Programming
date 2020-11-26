@@ -1,3 +1,5 @@
+//https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
+
 #include<bits/stdc++.h>
 using namespace std;
 
