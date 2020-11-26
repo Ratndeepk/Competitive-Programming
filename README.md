@@ -1,6 +1,10 @@
+ 
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)
+----------------------------------------------------------------------------------------------------------------
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
+
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
 ## Day 5 (450Q Babbar) 🚀
@@ -11,7 +15,7 @@
 * https://practice.geeksforgeeks.org/problems/sorted-matrix/0
 * https://practice.geeksforgeeks.org/problems/n-queen-problem/0 (Backtracking)  
   
-![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
+![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
 * [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
