@@ -4,6 +4,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Ratndeepk/Competitive-Programming/blob/master/LICENSE)
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
