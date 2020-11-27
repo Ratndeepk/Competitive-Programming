@@ -9,7 +9,7 @@
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
 ## Day 6 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
+* https://leetcode.com/problems/jump-game-ii/
 * https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
 * https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.
 * https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/
