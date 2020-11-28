@@ -8,7 +8,7 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 6 (450Q Babbar) 🚀
+## Day 7 (450Q Babbar) 🚀
 * https://practice.geeksforgeeks.org/problems/coin-change2448/1
 * https://practice.geeksforgeeks.org/problems/ncr1019/1
 * https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
