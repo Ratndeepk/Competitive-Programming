@@ -11,6 +11,7 @@ def knapsack(val,wt,W,n):
     * cur_wt<=total wt in that column  otherwise matrix[cur_wt][max_wt]= matrix[cur_wt-1][max_wt]  # not taking wt[cur_wt] at all 
 
     * take matrix[cur_wt][max_wt] = max(matrix[cur_wt-1][max_wt-wt[cur_wt]] , matrix[cur_wt-1][max_wt]) # max b/w not taking wt[cur_wt] & considering it 
+    * ^> means taken just above value
     
     |   | 0   | 1   | 2           | 3            | 4            | 5               |
     | 5 | 0   | 0   | 0           | 0            | 0            | 60              |
