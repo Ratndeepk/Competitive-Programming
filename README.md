@@ -8,12 +8,15 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 7 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/coin-change2448/1
-* https://practice.geeksforgeeks.org/problems/ncr1019/1
-* https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
-* https://practice.geeksforgeeks.org/problems/max-rectangle/1
-* https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0
+## Day 8 (450Q Babbar) 🚀
+* https://leetcode.com/problems/find-the-duplicate-number/
+* https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1
+* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
+* https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.
+* https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/
+* https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
+* https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
+* https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1
   
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
