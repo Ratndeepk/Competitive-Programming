@@ -3,7 +3,7 @@ def check(n,st,tab):
     for i in range(n-2,-1,-1):
         
         for j in range(i+1,n):
-            print(st[i],st[j])
+           
             if st[i]==st[j]:
               
                 
@@ -48,4 +48,34 @@ for _ in range(int(input())):
     b|False| False| False| True  |
 
     """
+    print(check(n,st,tab))
+
+
+# Below code will generate the maximum palindrome substring
+    def check(n,st,tab):
+    maxlps=1
+    sol=st[0]
+    for i in range(n-2,-1,-1):
+        
+        for j in range(i+1,n):
+           
+            if st[i]==st[j]:
+                start,end,flag=i+1,j-1,0
+                if j-i==1 or tab[i+1][j-1]:
+                    tab[i][j]=True 
+                    if maxlps<=j-i+1:
+                        sol=st[i:j+1]
+                        maxlps=j-i+1
+                    #maxlps = max(maxlps,j-i+1)  # j-i+1 gives length of current palindrome substring example 'abcb' (i=1 j=3)  length=j-i+1=3
+          
+          
+    return sol
+    
+
+for _ in range(int(input())):
+    st = input() 
+    n = len(st) 
+    tab = [[False for i in range(n)] for i in range(n)] 
+    for i in range(n):
+        tab[i][i]=True 
     print(check(n,st,tab))
