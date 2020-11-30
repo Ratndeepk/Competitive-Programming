@@ -15,12 +15,18 @@ def check(st,start,end):
     """
     Example: 
 
-    st = 'aabbaaa'
-    start=0 end=6 st[start]=a st[end]=a they're matching we recursive call for start-1 and end-1
-    same start=1 and end=5 matches 
-    start=2 and end=4 doesnt match
-    jumps to step 5 start from start+1 & then end from end-1 
-    we get solution in end-1 :)
+    st='abdbca' 
+                
+                       abdbca   ans=3
+                          |
+                       3[bdbc]
+                        /   \
+            max(3[2+bdb]  1[dbc])
+                  /          /    \
+               1[d]    max(1[db]   1[bc])
+                        /   \       /  \
+                 max[1[d]  1[b]]  max(1[b]  1[c])
+            
     """     
                 
             
