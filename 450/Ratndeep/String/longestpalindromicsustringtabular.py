@@ -6,7 +6,7 @@ def check(n,st,tab):
             print(st[i],st[j])
             if st[i]==st[j]:
               
-                tab[i][j]=True 
+                
                 """
                 at i=1 j=3 st[1]==st[3] 
                 
@@ -23,14 +23,8 @@ def check(n,st,tab):
                 will check s[1] & s[2] which are not equal thus rejected
                 """
                 start,end,flag=i+1,j-1,0
-                while start<=end:
-                    if not tab[start][end]:
-                        flag=1
-                        break 
-                    start+=1 
-                    end-=1 
-                
-                if flag==0:
+                if j-i==1 or tab[i+1][j-1]:
+                    tab[i][j]=True 
                     maxlps = max(maxlps,j-i+1)  # j-i+1 gives length of current palindrome substring example 'abcb' (i=1 j=3)  length=j-i+1=3
           
           
