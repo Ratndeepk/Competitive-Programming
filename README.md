@@ -23,6 +23,7 @@
 * [CP-Algorithms](https://cp-algorithms.com/) 
 * [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
 * [Leetcode (Top Interview Questions)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
+* [Coding Simplified](https://thecodingsimplified.com/)
 
 ## Important Subjects:
 * [DataStructure & Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
