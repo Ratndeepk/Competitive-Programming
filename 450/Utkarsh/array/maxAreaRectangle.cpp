@@ -1,4 +1,5 @@
 //https://practice.geeksforgeeks.org/problems/max-rectangle/1
+
 #include<bits/stdc++.h>
 using namespace std;
 #define MAX 1000
