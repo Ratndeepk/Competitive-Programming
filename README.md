@@ -4,18 +4,21 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Ratndeepk/Competitive-Programming/blob/master/LICENSE)
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 5 (450Q Babbar) 🚀
-* https://leetcode.com/problems/count-and-say/
-* https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
-* https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
-* https://practice.geeksforgeeks.org/problems/max-rectangle/1
-* https://practice.geeksforgeeks.org/problems/sorted-matrix/0
-* https://practice.geeksforgeeks.org/problems/n-queen-problem/0 (Backtracking)  
+## Day 8 (450Q Babbar) 🚀
+* https://leetcode.com/problems/find-the-duplicate-number/
+* https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1
+* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
+* https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.
+* https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/
+* https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
+* https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
+* https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1
   
-![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic.png?raw=true)
+![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
 * [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
@@ -23,13 +26,14 @@
 * [CP-Algorithms](https://cp-algorithms.com/) 
 * [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
 * [Leetcode (Top Interview Questions)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
+* [Coding Simplified](https://thecodingsimplified.com/)
 
 ## Important Subjects:
 * [DataStructure & Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 * [Operating System](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
 * [Computer Networks](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 * [DataBase Management Systems](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
-
+* [Object Oriented Programming](https://www.youtube.com/watch?v=-DP1i2ZU9gk&t=1084s&ab_channel=MITOpenCourseWare)
 ## Contributors: 
 <a href="https://github.com/Ratndeepk/Competitive-Programming/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Ratndeepk/Competitive-Programming" /></a>  
