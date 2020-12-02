@@ -1,0 +1,20 @@
+Backtracking is a method to solve problems by making a series 
+choices that we can return or backtrack to. 
+
+The call stack "remember &  knows what to choose next.
+
+3 keys : 
+----------------------------------
+1. Our Choices: 
+> What choices do we make at each
+call of the function.
+> Recursion expresses decision.
+----------------------------------
+2. Our Constraints
+> When do we stop following a certain path?
+> When do we not even go one way?
+----------------------------------
+3.Our Goal
+> What's our target?
+> What are we trying to find?
+----------------------------------
