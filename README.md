@@ -4,19 +4,17 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Ratndeepk/Competitive-Programming/blob/master/LICENSE)
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 6 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1
-* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
-* https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.
-* https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/
-* https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
-* https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
-* https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/
-* https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/
-  
+## Day 9 (450Q Babbar) 🚀
+* https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/
+* https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/
+* https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+* https://leetcode.com/problems/delete-node-in-a-bst/
+* https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1
+* https://www.geeksforgeeks.org/permutation-coefficient/
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
@@ -25,6 +23,7 @@
 * [CP-Algorithms](https://cp-algorithms.com/) 
 * [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
 * [Leetcode (Top Interview Questions)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
+* [Coding Simplified](https://thecodingsimplified.com/)
 
 ## Important Subjects:
 * [DataStructure & Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
