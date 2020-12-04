@@ -1,5 +1,5 @@
  
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)  
 ----------------------------------------------------------------------------------------------------------------
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
@@ -7,7 +7,7 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Ratndeepk/Competitive-Programming/blob/master/LICENSE)
 
-### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
+### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
 ## Day 10 (450Q Babbar) 🚀
 * https://www.geeksforgeeks.org/program-nth-catalan-number/
@@ -36,12 +36,12 @@
 <a href="https://github.com/Ratndeepk/Competitive-Programming/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Ratndeepk/Competitive-Programming" /></a>  
   
-    
+
 ## Topics Covering Soon:
 
 
 
-[Array](https://github.com/Ratndeepk/Competitive-Programming/tree/master/array):
+[Array](https://github.com/Ratndeepk/Competitive-Programming/tree/master/array): 
 
 Subarray with given sum ,
 Count the triplets ,
