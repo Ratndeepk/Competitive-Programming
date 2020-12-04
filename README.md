@@ -3,6 +3,7 @@
 ----------------------------------------------------------------------------------------------------------------
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
+![Size](https://img.shields.io/github/repo-size/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Ratndeepk/Competitive-Programming/blob/master/LICENSE)
 
