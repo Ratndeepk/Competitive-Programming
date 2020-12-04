@@ -9,12 +9,12 @@
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
 ## Day 9 (450Q Babbar) 🚀
-* https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/
-* https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/
-* https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
-* https://leetcode.com/problems/delete-node-in-a-bst/
-* https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1
-* https://www.geeksforgeeks.org/permutation-coefficient/
+* https://www.geeksforgeeks.org/program-nth-catalan-number/
+* https://www.geeksforgeeks.org/graph-and-its-representations/
+* https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+* https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+* https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+* https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
