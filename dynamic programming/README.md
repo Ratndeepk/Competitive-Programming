@@ -1,5 +1,12 @@
 # Dynamic Programming 
 
+* When a recursive solution solves same problem more than once - <b>Overlapping Subproblem</b>
+* Achieving SSolution by solving subproblem - <b>Optimal Substructure</b>  
+If above two conditions satifies in recursive solution we can apply DP.(Usually decreases Time Complexity)
+### Two Approaches
+* TopDown (Memorization)
+* BottomUP (Tabular)
+
 A DP is an algorithmic technique which is usually based on a recurrent formula and one 
 (or some) starting states. A sub-solution of the problem is constructed from previously 
 found ones. DP solutions have a polynomial complexity which assures a much faster running 

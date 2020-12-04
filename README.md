@@ -1,21 +1,22 @@
  
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)  
 ----------------------------------------------------------------------------------------------------------------
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
+![Size](https://img.shields.io/github/repo-size/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Ratndeepk/Competitive-Programming/blob/master/LICENSE)
 
-### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
+### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
-## Day 5 (450Q Babbar) 🚀
-* https://leetcode.com/problems/count-and-say/
-* https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
-* https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
-* https://practice.geeksforgeeks.org/problems/max-rectangle/1
-* https://practice.geeksforgeeks.org/problems/sorted-matrix/0
-* https://practice.geeksforgeeks.org/problems/n-queen-problem/0 (Backtracking)  
-  
-![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic.png?raw=true)
+## Day 10 (450Q Babbar) 🚀
+* https://www.geeksforgeeks.org/program-nth-catalan-number/
+* https://www.geeksforgeeks.org/graph-and-its-representations/
+* https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+* https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+* https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+* https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
 * [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
@@ -23,23 +24,24 @@
 * [CP-Algorithms](https://cp-algorithms.com/) 
 * [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
 * [Leetcode (Top Interview Questions)](https://leetcode.com/explore/interview/card/top-interview-questions-hard/) 
+* [Coding Simplified](https://thecodingsimplified.com/)
 
 ## Important Subjects:
 * [DataStructure & Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 * [Operating System](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
 * [Computer Networks](http://index-of.es/Varios-2/Computer%20Networks%205th%20Edition.pdf)
 * [DataBase Management Systems](http://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf)
-
+* [Object Oriented Programming](https://www.youtube.com/watch?v=-DP1i2ZU9gk&t=1084s&ab_channel=MITOpenCourseWare)
 ## Contributors: 
 <a href="https://github.com/Ratndeepk/Competitive-Programming/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Ratndeepk/Competitive-Programming" /></a>  
   
-    
+
 ## Topics Covering Soon:
 
 
 
-[Array](https://github.com/Ratndeepk/Competitive-Programming/tree/master/array):
+[Array](https://github.com/Ratndeepk/Competitive-Programming/tree/master/array): 
 
 Subarray with given sum ,
 Count the triplets ,
