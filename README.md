@@ -8,7 +8,7 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)! 🐞
 
-## Day 9 (450Q Babbar) 🚀
+## Day 10 (450Q Babbar) 🚀
 * https://www.geeksforgeeks.org/program-nth-catalan-number/
 * https://www.geeksforgeeks.org/graph-and-its-representations/
 * https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
