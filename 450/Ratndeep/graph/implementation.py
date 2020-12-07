@@ -2,6 +2,7 @@ from collections import defaultdict
 nodes = list(map(int,input().split())) 
 edges = int(input()) 
 graph = defaultdict(list) 
+matrix = [[0 for i in range(nodes)] for i in range(nodes)]
 for i in range(edges):
     a,b = map(int,input().split()) 
     
@@ -19,4 +20,4 @@ for i in range(edges):
 
     matrix[a][b]=w 
     matrix[b][a]=w 
-    
+

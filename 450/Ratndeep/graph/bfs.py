@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 def bfs(graph,x):
     visited=[False]*len(arr) 
     print(x,end=" ") 
