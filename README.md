@@ -9,13 +9,14 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
-## Day 10 (450Q Babbar) 🚀
-* https://www.geeksforgeeks.org/program-nth-catalan-number/
-* https://www.geeksforgeeks.org/graph-and-its-representations/
-* https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
-* https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
-* https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
-* https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+## Day 11 (450Q Babbar) 🚀
+* https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+* https://practice.geeksforgeeks.org/problems/edit-distance3702/1
+* https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0
+* https://www.geeksforgeeks.org/print-subsequences-string/
+* https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0
+* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
+* https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
 ![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
