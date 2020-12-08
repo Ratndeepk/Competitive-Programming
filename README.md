@@ -3,10 +3,10 @@
  <br>
  <i>Push your limit too!</i>
  <br>
- 
 </h1>
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)
-----------------------------------------------------------------------------------------------------------------
+
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)  
+
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Size](https://img.shields.io/github/repo-size/Ratndeepk/Competitive-Programming)
