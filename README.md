@@ -1,7 +1,7 @@
 <h1 align="center">
- <i>Don't just push your code</i>
+ <i>Don't just push your CODE</i>
  <br>
- <i>Push your limit too!</i>
+ <i>Push your limits too!</i>
  <br>
 </h1>
 
