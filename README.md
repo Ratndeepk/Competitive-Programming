@@ -1,5 +1,11 @@
+<h1 align="center">
+ <i>Don't just push your code</i>
+ <br>
+ <i>Push your limit too!</i>
+ <br>
  
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)  
+</h1>
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)
 ----------------------------------------------------------------------------------------------------------------
 
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
