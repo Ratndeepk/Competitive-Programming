@@ -1,5 +1,5 @@
 #code https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0
-
+#
 for _ in range(int(input())):
     n = int(input())
     arr = list(map(int, input().split()))
