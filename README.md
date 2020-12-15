@@ -5,7 +5,7 @@
  <br>
 </h1>
 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)  
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/6mkx38bK)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Ratndeepk/Competitive-Programming)](https://badges.pufler.dev)
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
