@@ -4,16 +4,14 @@ class Solution:
 	def reverseInGroups(self, arr, N, K):
 		# code here
         for i in range(0,N,K):
-            if N-i-1<K:
-                temp=arr[i:N]
-                temp=temp[::-1]
-            else:
-                temp=arr[i:i+K]
-                temp=temp[::-1]
-            t=0
-            for n in range(i,min(i+K,N)):
-                arr[n]=temp[t]
-                t+=1
+            right = min(N-1,i+K-1)
+            left=i
+            while left<right:
+                arr[left], arr[right] = arr[right], arr[left]
+                left+=1
+                right-=1
+        
+            
 
 #{ 
 #  Driver Code Starts
