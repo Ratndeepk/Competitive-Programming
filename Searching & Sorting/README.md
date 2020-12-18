@@ -1,6 +1,7 @@
 # Searching & Sorting
-https://www.youtube.com/watch?v=6LOwPhPDwVc&ab_channel=MITOpenCourseWare
-
+* [MIT tutorial](https://www.youtube.com/watch?v=6LOwPhPDwVc&ab_channel=MITOpenCourseWare)
+* [Visualization 🤓](https://www.toptal.com/developers/sorting-algorithms) 
+ 
 # Stability in sorting algorithms
 Stability is mainly important when we have key value pairs with duplicate keys possible (like people names as keys and their details as values). And we wish to sort these objects by keys.
 A sorting algorithm is said to be stable if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
