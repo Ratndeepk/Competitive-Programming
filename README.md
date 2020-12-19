@@ -4,6 +4,10 @@
  <i>Push your limits too!</i>
  <br>
 </h1>
+<p align="center">
+ <i>Get access to Topic by Topic resource including explaination and top questions by opening topic named folder</i>
+ <br>
+</p>
 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/nj4CSsqZ2b)
 
