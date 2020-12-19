@@ -4,6 +4,10 @@
  <i>Push your limits too!</i>
  <br>
 </h1>
+<p align="center">
+ <i>Get access to Topic by Topic resource including explaination and top questions by opening topic folder</i>
+ <br>
+</p>
 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/nj4CSsqZ2b)
 
@@ -15,14 +19,13 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
-## Day 11 (450Q Babbar) 🚀
-* https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
-* https://practice.geeksforgeeks.org/problems/edit-distance3702/1
-* https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0
-* https://www.geeksforgeeks.org/print-subsequences-string/
-* https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0
-* https://practice.geeksforgeeks.org/problems/middle-of-three2926/1
-* https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
+## Day 12 (450Q Babbar) 🚀
+* https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+* https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
+* https://practice.geeksforgeeks.org/problems/huffman-encoding/0
+* https://practice.geeksforgeeks.org/problems/word-break-part-2/0
+* https://leetcode.com/problems/remove-invalid-parentheses/
+
 
 
  ### Books:
