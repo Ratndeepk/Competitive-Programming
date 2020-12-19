@@ -5,7 +5,7 @@
  <br>
 </h1>
 <p align="center">
- <i>Get access to Topic by Topic resource including explaination and top questions by opening topic named folder</i>
+ <i>Get access to Topic by Topic resource including explaination and top questions by opening topic folder</i>
  <br>
 </p>
 
