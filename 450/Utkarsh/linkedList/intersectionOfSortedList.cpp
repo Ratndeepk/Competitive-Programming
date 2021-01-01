@@ -3,9 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
 /* The structure of the Linked list Node is as follows:
-
 struct Node
 {
     int data;
@@ -16,7 +14,6 @@ struct Node
         next=NULL;
     }
 };
-
 */
 
 Node* findIntersection(Node* head1, Node* head2)
