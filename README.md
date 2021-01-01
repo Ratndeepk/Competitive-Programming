@@ -1,7 +1,17 @@
- 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4)  
-----------------------------------------------------------------------------------------------------------------
+<h1 align="center">
+ <i>Don't just push your CODE</i>
+ <br>
+ <i>Push your limits too!</i>
+ <br>
+</h1>
+<p align="center">
+ <i>Get access to Topic by Topic resource including explaination and top questions by opening topic folder</i>
+ <br>
+</p>
 
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/F5CTKT3cFYY5Zn1TIT7CC4) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/nj4CSsqZ2b)
+
+[![Visits Badge](https://badges.pufler.dev/visits/Ratndeepk/Competitive-Programming)](https://badges.pufler.dev)
 ![Contributors](https://img.shields.io/github/contributors/Ratndeepk/Competitive-Programming)
 ![Size](https://img.shields.io/github/repo-size/Ratndeepk/Competitive-Programming)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Ratndeepk)
@@ -9,17 +19,19 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
-## Day 10 (450Q Babbar) 🚀
-* https://www.geeksforgeeks.org/program-nth-catalan-number/
-* https://www.geeksforgeeks.org/graph-and-its-representations/
-* https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
-* https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
-* https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
-* https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
-![alt text](https://github.com/Ratndeepk/Competitive-Programming/blob/master/img/traffic1.png?raw=true)
+## Day 12 (450Q Babbar) 🚀
+* https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+* https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
+* https://practice.geeksforgeeks.org/problems/huffman-encoding/0
+* https://practice.geeksforgeeks.org/problems/word-break-part-2/0
+* https://leetcode.com/problems/remove-invalid-parentheses/
+
+
+
  ### Books:
 * [Handbook](https://drive.google.com/file/d/1tii1TyA5ETd4LtzN9MGrCVl5s0PsUI_X/view)  
 * [Cracking the Coding Interview](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) 🔥
+* [DBMS Sheet](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 ### Important Links
 * [CP-Algorithms](https://cp-algorithms.com/) 
 * [Geeksforgeeks (Top Interview Questions)](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) 
