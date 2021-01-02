@@ -20,12 +20,12 @@
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
 ## Day 12 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
-* https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
-* https://practice.geeksforgeeks.org/problems/huffman-encoding/0
-* https://practice.geeksforgeeks.org/problems/word-break-part-2/0
-* https://leetcode.com/problems/remove-invalid-parentheses/
-
+* https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
+* https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+* https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+(Less questions due to running contest)
 
 
  ### Books:
