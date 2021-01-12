@@ -1,3 +1,4 @@
+"""
 ans={}
 class Solution:
     
@@ -18,4 +19,20 @@ class Solution:
             return result
 
 s =Solution()
-s.climbStairs(int(input()))
+print(s.climbStairs(int(input())))
+
+"""
+def no_of_ways(n,m):
+    if n==0:
+        return 1
+    if n==1:
+        return 1
+    i=1
+    count=0
+    while i<=m and i<=n:
+        count+=no_of_ways(n-i,m)
+        i+=1
+    return count
+n = int(input())
+m = int(input())
+print(no_of_ways(n,m))
