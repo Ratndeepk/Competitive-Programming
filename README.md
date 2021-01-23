@@ -19,13 +19,13 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
-## Day 13 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1
-* https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
-* https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
-* https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
-* https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
-(Less questions due to running contest)
+## Day 14 (450Q Babbar) 🚀
+* https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+* https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1
+* https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/
+* https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+* https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/
+
 
 
  ### Books:
