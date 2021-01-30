@@ -8,6 +8,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "cp_5913bf53"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "cp_5913bf53"
+        },
+        {
             "name": "g++.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
