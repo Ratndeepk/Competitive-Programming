@@ -9,6 +9,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "cp_5913bf53"
+        },
+        {
+            "type": "java",
             "name": "Launch pattern",
             "request": "launch",
             "mainClass": "pattern",
