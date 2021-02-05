@@ -18,12 +18,12 @@
 
 ### Old questions are available in [wiki](https://github.com/Ratndeepk/Competitive-Programming/wiki)!  ![Stars](https://img.shields.io/github/stars/Ratndeepk/Competitive-Programming?style=social)  🐞
 
-## Day 14 (450Q Babbar) 🚀
-* https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
-* https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1
-* https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/
-* https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
-* https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/
+## Day 15 (450Q Babbar) 🚀
+* https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1
+* https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1
+* https://practice.geeksforgeeks.org/problems/construct-tree-1/1
+* https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/#:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010.
+* https://practice.geeksforgeeks.org/problems/sum-tree/1
 
 
 
