@@ -1,4 +1,6 @@
-# selection sort
+#Selection Sort Algorithm: A simple, comparison-based sorting technique that repeatedly selects 
+#the smallest (or largest) element from the unsorted portion and swaps it with the first unsorted 
+#element. It has a time complexity of O(n^2) and is inefficient for large datasets but easy to implement.
 
 
 array = list(map(int,input().split()))

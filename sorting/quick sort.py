@@ -1,4 +1,6 @@
-# quick sort
+#Quicksort Algorithm: A divide-and-conquer sorting technique that selects a 'pivot' element 
+#and partitions the array into two subarrays of elements less than and greater than the pivot. 
+#It has an average time complexity of O(n log n) and is efficient for large datasets but unstable.
 
 def partition(a,low,high):
     i = low-1
